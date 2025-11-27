@@ -1,12 +1,11 @@
 +++
-author = "Radek"
+author = "Kate"
 framed = true
 +++
 
 # Hello there!
 
-My name is Radek and I’m the author of this theme. I made it to help you present your ideas easier.
+My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cyber Security. Focused on building and securing cloud environments, and learning new technologies.
 
-If you want to change the default color scheme, please visit [**Terminal.css**](https://panr.github.io/terminal-css/) and generate your own.
 
-[![Terminal.css Preview](/kitcat/img/terminal-css.png)](https://panr.github.io/terminal-css/)
+[![Terminal.css Preview](/kitcat/img/kate-flower.jpg)](https://idanishrangaiz.github.io/kitcat/)

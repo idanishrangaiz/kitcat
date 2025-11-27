@@ -1,24 +1,29 @@
 +++
 title = "O motywie"
 date = "2019-01-25"
-author = "Radek"
+author = "Kate"
 type = "page"
 +++
 
-## Witaj
+## Cześć
 
-Mam na imię Radek i jestem autorem tego motywu. Zrobiłem go, aby usprawnić Ci proces publikacji swoich pomysłow.
+Nazywam się Kate Fowler i jestem Inżynierem Chmury Azure z doświadczeniem w Cyberbezpieczeństwie. Skupiam się na budowaniu i zabezpieczaniu środowisk chmurowych oraz na ciągłej nauce nowych technologii.
 
-Wszyscy wiemy jak trudne i skomplikowane stało się budowanie nawet najprostszych rzeczy obecnie w internecie. Musisz przygotować i skonfigurować masę różnych narzedzi, zanim będziesz mógł stworzyć coś własnego.
+Poza pracą interesuję się sportem, szczególnie podnoszeniem ciężarów, nauką języków oraz podróżowaniem po świecie.
 
-Ten motyw jest bardzo prosty, ale obsługuje podstawowe rzeczy dostarczane przez Hugo. Jedyne co musisz zrobić, to tylko zacząć pisać!
+Sekcja doświadczenia:
 
-Motyw zawiera:
+- Cloud Engineer – National Records of Scotland 2024 – obecnie  
+- Senior Cyber Defence & Vulnerability Analyst – Scottish Government 2022 – 2024
 
-- w pełni konfigurowalne środowisko kolorystyczne generowane przy pomocy [**Terminal.css**](https://panr.github.io/terminal-css/).
-- doskonałe warunki do czytania dzięki [**Fira Code**](https://github.com/tonsky/FiraCode).
-- miłe dla oka i przydatne kolorowanie składni kodu oparte na [**Chroma**](https://github.com/alecthomas/chroma), które automatycznie dostosowuje się do wybranego przez Ciebie schematu kolorów.
-- w pełni responsywny layout
-- w pełni oparty na wewnętrznych modułach Hugo (Pipes oraz Modules)
+Certyfikacje i umiejętności:
 
-I to wszystko, powodzenia!
+- AZ-900 – czerwiec 2024  
+- AZ-104 – w trakcie nauki  
+- AZ-104 – w trakcie nauki  *(duplikat, jeżeli to błąd mogę poprawić)*
+
+Blog:
+
+- Artykuł
+
+To tyle… miłej lektury!
