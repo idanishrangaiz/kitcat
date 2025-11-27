@@ -1,6 +1,6 @@
 +++
 title = "O motywie"
-date = "2019-01-25"
+date = "2025-11-25"
 author = "Kate"
 type = "page"
 +++
