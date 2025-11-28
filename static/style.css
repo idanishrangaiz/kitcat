@@ -388,7 +388,7 @@ button {
 .languages ul {
     list-style: none;
     padding-left: 1rem;
-    border-left: 2px solid #4cb3ff;
+    border-left: 2px solid #5dbeee;
     margin-left: 10px;
 }
 
@@ -396,4 +396,31 @@ button {
     content: "•";
     color: #000;
     margin-right: 6px;
+}
+.social-links {
+    margin-top: 20px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.social-links .btn {
+    padding: 8px 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: white;
+}
+
+/* LinkedIn styling */
+.linkedin-btn {
+    background: #5dbeee;
+}
+
+/* GitHub styling */
+.github-btn {
+    background: #24292e;
 }

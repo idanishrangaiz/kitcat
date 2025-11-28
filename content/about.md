@@ -36,12 +36,21 @@ type = "page"
 
 <div class="languages">
   <ul>
-    <li><strong>AZ-900:</strong> June 2024</li>
+    <li><strong>AZ-900:</strong> June 2024 </li>
     <li><strong>AZ-104:</strong> Studying in progress</li>
     <li><strong>AZ-104:</strong> Studying in progress</li>
   </ul>
 </div>
 
+<!-- Social Buttons -->
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/katefowler1/" target="_blank" class="btn linkedin-btn">
+    <span class="icon">🔗</span> LinkedIn
+  </a>
 
+  <a href="https://github.com/txk8" target="_blank" class="btn github-btn">
+    <span class="icon">💻</span> GitHub
+  </a>
+</div>
 
 So, there you have it... enjoy!
