@@ -13,7 +13,7 @@ Outside of work, I'm into sports especially weightlifting, language learning, an
 
 
 
-## Experience
+# Experience
 
 
 <div class="languages">
@@ -24,7 +24,7 @@ Outside of work, I'm into sports especially weightlifting, language learning, an
 </div>
 
 
-## Certifications & Skills
+# Certifications & Skills
 
 <div class="languages">
   <ul>
