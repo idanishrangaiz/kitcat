@@ -26,7 +26,6 @@ type = "page"
   </ul>
 </div>
 
-
 +++
 title = "Certifications & Skills"
 date = "2025-11-25"
