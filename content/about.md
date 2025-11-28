@@ -12,12 +12,9 @@ My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cybe
 Outside of work, I'm into sports especially weightlifting, language learning, and travelling the world.
 
 
-+++
-title = "Experience"
-date = "2025-11-25"
-author = "Kate"
-type = "page"
-+++
+
+## Experience
+
 
 <div class="languages">
   <ul>
@@ -26,12 +23,8 @@ type = "page"
   </ul>
 </div>
 
-+++
-title = "Certifications & Skills"
-date = "2025-11-25"
-author = "Kate"
-type = "page"
-+++
+
+## Certifications & Skills
 
 <div class="languages">
   <ul>
